@@ -1,4 +1,6 @@
 //Imagen
+//Ariadna Abigail Juárez Amengual 
+//94310/6
 PImage photo;
 
 void setup() {

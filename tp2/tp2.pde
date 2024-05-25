@@ -2,7 +2,7 @@
 Ariadna Abigail Juárez Amengual
  94310/6
  Comision 3
- TP2;  Obra de arte electronico
+ TP2;  Obra de Arte Electronico
  */
  
  //para pasar la "case 1" se debe hacer click, no se como arreglarlo, no es necesario a partir de ahí,pero sigue funcionando
